@@ -19,25 +19,25 @@ const PLACEHOLDERS = {
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
             url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
-            width: 2500,
+            width: 5000,
             height: 3155,
           },
         },
       },
       spreadSecondary: {
-        reference: {
-          mediaContentType: 'IMAGE',
-          alt: 'A snowboarder standing on a mountain top in choppy snow, shows off the back of his snowboard which reads Hydrogen in a cursive script.',
-          previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
-          },
-          id: 'gid://shopify/MediaImage/29259478499384',
-          image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
-            width: 2500,
-            height: 3155,
-          },
-        },
+        // reference: {
+        //   mediaContentType: 'IMAGE',
+        //   alt: 'A snowboarder standing on a mountain top in choppy snow, shows off the back of his snowboard which reads Hydrogen in a cursive script.',
+        //   previewImage: {
+        //     url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+        //   },
+        //   id: 'gid://shopify/MediaImage/29259478499384',
+        //   image: {
+        //     url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+        //     width: 2500,
+        //     height: 3155,
+        //   },
+        // },
       },
       height: 'full',
       top: true,
